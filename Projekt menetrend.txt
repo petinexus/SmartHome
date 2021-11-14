@@ -1,0 +1,21 @@
+Alpha
+-alaphang felismrés                 kész    v0.1.1
+-relék alapvető vezérlése           kész    v0.1.2
+-kulcs szóra(hotkeyword) figyelés   kész    v0.1.3 vosk asztal
+-arduino Modbus RTU kapcsolása      kész    v0.1.4
+-arduino infra vezérlés             kész    v0.1.5
+-szövegfelolvasó                    kész    v0.1.6
+-arduino hömérséklet szenszor       kész    v0.1.7
+
+Beta
+-külön modulok egybe rakása         akt    v0.2.1
+-parancsok meghatározása            next    v0.2.2
+
+-refact                             next    v0.3
+
+Final
+-név kitalálása                     next    v0.9
+
+Arduino slave   id: 15
+Relay 1ch slave id: 255
+Relay 2ch slave id: 10
